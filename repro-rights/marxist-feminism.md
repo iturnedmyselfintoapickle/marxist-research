@@ -1,0 +1,25 @@
+# Alexandra Kollontai
+- "The Social Basis of the Woman Question" - 1909
+  - issue of gender equality is not separate from the "general social question"
+  - the subordination of women is due in large part to economic factors; natural qualities are secondary to this
+  - "women can become truly free and equal only in a world organized along new social and productive lines"
+  - *partial* improvement can be won through reforms
+  - liberal feminism seeks equality from the existing system; view stems from bourgeois class position
+  - bourgeois and proletarian women have different aims and interests due to class position
+  - gender equality can only be achieved with the "fundamental transformation of the contemporaty economic and social structure of society"
+  - equal rights in the present moment are a means for advancing working class struggle
+  - women and men of the working class are bound by the same economic and social conditions
+    - should be said that aspects of the current system "lie with double weight upon women", though the blame rests on the shoulders of the capitalists
+  - from this viewpoint, the aspirations of bourgeois women diverge from the needs of her proletarian counterpart
+  - equality in the current system means an equal share of inequality for people of the working class
+    - however, equality will more directly expose the contradiction between proletarian and bourgeois women
+  - true cross-class unity between women cannot exist
+  - modes of production have subjugated women throughout history; only upheaval brought the beginnings of change
+  - the early bourgeois feminist movement arose from economic changes that forced petty/middle bourgeois women to either seek access seek right to work or go poor
+    - resistance from men to bourgeois women getting careers forced them to band together
+    - should be said that proletarian women had long been forced into wage labor to subsist in poverty
+    - only the recognition of the labor of women workers in the global market allowed bourgeois women to access independence
+  - improvements to the conditions of proletarian women was won by the labor movement, not by bourgeois feminism
+  - "the aim of bourgeois women is to secure their own welfare in the framework of a society antogonistic to us"
+  - real freedom for women can only be achieved by radically changing the form and structure of the "traditional" family
+  - 
