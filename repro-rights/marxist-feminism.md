@@ -22,4 +22,16 @@
   - improvements to the conditions of proletarian women was won by the labor movement, not by bourgeois feminism
   - "the aim of bourgeois women is to secure their own welfare in the framework of a society antogonistic to us"
   - real freedom for women can only be achieved by radically changing the form and structure of the "traditional" family
-  - 
+  - women are forced into dependence upon and subservience to men through legal, cultural, and economic modes of coercion
+    - this is designed/encouraged by the bourgeoisie in order to preserve the institution of property
+  - women (perhaps moreso at the time of this writing) are driven by economic necessity to accept the auspices of the traditional family, which "oppresses women of all classes and all layers of the population"
+  - Bourgeois feminism presents individualized solutions to patriarchal society without attacking the economic basis of those societal relations
+    - for ex., the question and problems of marriage cannot be addressed if one ignores the element of private property in marriage
+  - only through the fundamental transformation of the economic basis of society can said society allow for the destruction of the individualistic, patriarchal family unit
+    - only when the dependence of women both capital and the husband are gone can "free love" actually be achieved
+  - bourgeois feminists are "naively believing in the possiblity of creating new forms of famikly and new types of marital relations agains the dismal background of comtemporary class society"
+  - interesting example of liberal "progressive" thought (for the time) reinforcing patriarchal ideas: some "social thinkers" at the time regarded marriage as only a method of producing children; motherhood being a woman's purpose; Ruth Bray and Ellen Key put a "progressive halo" over the idea of women as baby factories (my words)
+  - on a similar note to previous points, it is incorrect to assume the modern family, which is a product of capitalist relations, will continue to exist in its present form, unchanged, in a socialist society
+  - "With the transfer of educative functions from the family to society, the last tie holding together the modern isolated family will be loosened... the slowly maturing evolution of relations betwen the sexes is clear evidence that ritual marriage and the compulsive isolated family are doomed to disappear"
+  - although the immediate tasks of bourgeois and proletarian feminists coincide somewhat, the "class colouring" of the goals and understandings of the bourgeois feminists ultimately destroys any semblance of true solidarity
+  - "Class instinct--whatever the feminists say--always shows itself to be more powerful than the noble enthusiasms of 'above-class' politics"
