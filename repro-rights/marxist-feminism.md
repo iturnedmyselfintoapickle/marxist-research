@@ -59,3 +59,67 @@
   - under communism child-rearing and education can also be achieved collectively
   - "Communist society will take upon itself all the duties involved in the education of the child, but the joys of parenthood will not be taken away from those who are capable of appreciating them."
   - As the old family withers away, new relationships between people will form to replace it appropriate the the material conditions of that society
+
+
+# Angela Davis
+## "Women, Race, and Class" - 1981
+
+### Racism, Birth Control, and Reproductive Rights
+- "Voluntary motherhood" was a demand raised by 19th century feminists
+- Though birth control inall forms is in the interest of all women, it has often failed to unite women of different backgrounds
+- 1973 - Roe v. Wade was decided
+- abortion rights campaigns in the time of the 1970s were mostly white
+  - when the question of "why?" was asked, the answer given failed to address the real cause: "the ideological underpinnings of the birth control moevement itself"
+  - by ignoring the often racist history of the birth control movement, they failed to understand Black people's suspicion toward birth control
+- Black and brown people are and have been historically very familiar with the need for abortion, particularly as the result of miserable social conditions
+  - ex. in NY several years prior to RvW, ~80% of deaths caused by illegal abortions involved Black and Puerto Rican women
+  - ex. shortly after RvW women of color had ~1/2 of all legal abortions
+  - "They were in favor of *abortion rights*, whcih did not mean that the were proponents of abortion"
+- In regards to conditions, self-abortions and infanticide were common among Black women in the days of slavery
+- By ignoring conditions or presening abortion as a way to solve those conditions in itself, "The campaign often failed to provide a voice for women who wanted the right to legal abortions while deploring the social conditions that prohibited them from bearing more children."
+- 1977 - Passage of the Hyde Amendment: federal and many state govts. withdrew funding for abortions
+  - sterilization remained free, forcing many Black, brown, Indigenous, and impoverished white women to opt for it
+- women have always looked to birth control as a way to control when, how, and how often they had children
+- "voluntary motherhood" arose out of the idea that women could refuse their husband's sexual whims
+- the struggle for reproductive rights was born out of the struggle for the political equality of women
+- because the demand for birth control was associated with the goals of the middle and capitalist classes, working women found it difficult to relate as they were struggling to merely survive
+- urbanization (mat. conditions) lowered white birthrates in the 1890s; this was of course interpreted in the most racist way possible
+  - "white suicide" (lol)
+  - even Teddy Roosevelt got in on it
+- this further exposed the gulf between bourgeois feminists and working women
+  - in addition to further exposing the association of bc with bourgeois goals, they also began insinuating that poor people had a moral obligation to restrict the size of their families
+- suffragist movement capitulated to "the racist posture of Southern women"
+- "Race suicide could be prevented by the introduction of birth control among Black people, immigrants and the poor in general. In this way, the prosperous whites of solid Yankee stock could maintain their superior numbers within the population."
+- Margaret Sanger - came from a working class background, began a lifelong crusade for birth control (a term she coined), was associted with the Socialist movement
+  - looked as though racist and anti-working-class nature of early fem. movement could be overcome
+  - joined the Socialist Party in 1912, gained support from the SP, IWW, and the anarchist movement
+- alliance between radical labor and the birth control campaign frayed
+- Sanger began to adopt "neo-Malthusian" found in some socialist circles, began to doubt capitalism's central role in causing poverty
+- Sanger severed her ties with the SP; began to embrace "the prevailing racist ideology" through susceptibility to anti-Black and anti-immigrant propaganda
+- the eugenics movement, which served as an ideological cover for monopoly capital, began to influence the birth control movement
+- even Sanger found birth control to be about "more children from the fit, less from the unfit"
+- American Birth Control League, around 1919, accept Lothrop Staddard (author of "The Rising Tide of Color Against White World Supremacy") into it's board of directors
+- Guy Irving Birch (director of the American eugenics Society) started appearing in ABCL's journal
+- by 1932, 26 states had passed compulsory sterilization laws for "unfit" people
+- ABCL and later the Birth Control Federation of America began calling for birth control among Black people with extremely racist overtones
+- the birth control movement had now a clear asoociation with racist/eugenicist ideas
+  - "...for people of color not the individual right to *birth control*, but rather the racist strategy of *population control*."
+- the birth control campaign served as an extension of US imperialist and racist population policy
+- the feminists of the 1970s failed to make amends for the racist history of the bc movement; missing an opportunity to reputdiate sterilization abuse, which was on the rise
+- summer 1973 - Minnie Lee Relf and Mary Alice Relf (12 and 14) were unwittingly steriized by the order of the Montgomery Community Action Comittee
+  - SPLC filed a suit on behalf of the Relf sisters
+  - it was discovered that their mother, who was illiterate, was tricked into signign a consent form for their sterilization by a social worker
+- it was later discovered that there were many cases of sterilization abuse at birth control clinics funded by the US Department of Health, Education, and Welfare (HEW)
+- it was discovered that, since 1933 in North Carolina, 7,686 sterilizations occurred, 5000 of which were of Black people, to prevent the reproduction of "mentally deficient persons"
+- it was also discovered that, under federal programs, between 100k and 200k sterilizations had been funded by the federal government in 1972
+  - for reference, the Nazis varried out 250k sterilizations *in total* during their reign over Germany and adjacent territories
+- "...by 1976 some 24 percent of all Indian women of childbearing age had been sterilized"
+  - Indigenous Americans were also the target of government propaganda on sterilization
+- in 1970 a study concluded that 20% of all married Black women were sterilized and about the same percentage of Chicana women as well
+  - ~43% of women sterilized through federal funding were Black
+- population control policy for Puerto Rican people goes back at least as far as 1939: FDR's Interdepartmental Committee on Puerto Rico
+- by the 1970s over 35% of Puerto Rican women of child bearing age were sterilized
+- sterilization has been (and will continue to be) used in the US as a means of reducing the population of impoverished and unemployed people generated by capitalism
+- the issue of sterilization abuse represents a gulf of understanding and solidarity between the "mainstream" reproductive rights movement, which often concerns itself with the interests of middle-class white women, and women of color
+  - while relatively well-to-do white women have been denied their individual rights to be sterilized if they so wished, sterilization has been pushed (and many times forcibly been performed) on Black, brown, and Indigenous women in the US at every turn
+- "Yet whatever the inconveniences for white middle-class women, a fundamental reproductive right of racially oppressed and poor women is at stake."
