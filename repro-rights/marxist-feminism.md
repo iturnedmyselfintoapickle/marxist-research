@@ -1,5 +1,5 @@
 # Alexandra Kollontai
-- "The Social Basis of the Woman Question" - 1909
+## "The Social Basis of the Women's Question" - 1909
   - issue of gender equality is not separate from the "general social question"
   - the subordination of women is due in large part to economic factors; natural qualities are secondary to this
   - "women can become truly free and equal only in a world organized along new social and productive lines"
@@ -35,3 +35,27 @@
   - "With the transfer of educative functions from the family to society, the last tie holding together the modern isolated family will be loosened... the slowly maturing evolution of relations betwen the sexes is clear evidence that ritual marriage and the compulsive isolated family are doomed to disappear"
   - although the immediate tasks of bourgeois and proletarian feminists coincide somewhat, the "class colouring" of the goals and understandings of the bourgeois feminists ultimately destroys any semblance of true solidarity
   - "Class instinct--whatever the feminists say--always shows itself to be more powerful than the noble enthusiasms of 'above-class' politics"
+
+## "Communism and the Family" - 1920
+  - Divorce/separation from (often abusive) partners is many times a luxury of women in good financial situations
+  - The old patriarchal family is changing just as it has changed many times over the course of history
+  - "kinship family" (matriarchal) -> patriarchal family -> etc.
+  - the form and nature of a family changes also from place to place, culture to culture
+  - it is the task of socialist and later communist society to determine the nature of the family according to the new material conditions under which it now exists
+  - the family structure of the proletariat in capitalist societies is a product of the past
+    - as such, the pillars and institutions that held it together have vanished; it is falling apart
+  - the expectation of women to become workers (death of the "man as breadwinner" i.e. insufficient wages to raise a family on one income) and mothers/homemakers forces them to expend all their energy trying to fulfill all those tasks
+    - this, obviously, an unfair burden on women
+    - in addition, when both parents are away from the home, they must by necessity neglect reproductive labor/child-rearing
+  - as the circumstances that held the old patriarchal, individual family unit together no longer exist, "the old family structure is now merely a hindrance"
+  - capitalism, with industrial production, has removed much of the necessary housework of times past; similarly, the working woman does not have time to produce the products of housework that have now been replaced by manufactured products even if she wants to
+  - domestic labor eats all a woman's spare time and energy
+  - however, modern domestic labor does not produce anything for the economy
+  - these last vestiges of domestic labor can, in a communist society, be replaced by "collective housekeeping", where there exist men and women whose job is to provide these services to society as a whole
+    - rich women have already been freed from this labor (i.e. maids, cooks, restaurants, etc.)
+  - the realities of capitalist society (low wages, parents at work, etc.) have robbed many proletarian children of their family lives and childhoods
+  - the capitalists are invested in the maintenance of the "old family" because it stifle's the worker's revolutionary spirit
+    - "The worker is weighed down by his family cares and si boliged to compromise with capital"
+  - under communism child-rearing and education can also be achieved collectively
+  - "Communist society will take upon itself all the duties involved in the education of the child, but the joys of parenthood will not be taken away from those who are capable of appreciating them."
+  - As the old family withers away, new relationships between people will form to replace it appropriate the the material conditions of that society
