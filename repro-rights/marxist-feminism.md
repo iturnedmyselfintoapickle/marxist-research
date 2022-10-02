@@ -60,6 +60,19 @@
   - "Communist society will take upon itself all the duties involved in the education of the child, but the joys of parenthood will not be taken away from those who are capable of appreciating them."
   - As the old family withers away, new relationships between people will form to replace it appropriate the the material conditions of that society
 
+## "The First International Conference of Socialist Women" - Stuttgart, 1907
+- Capitalism encourages and reproduces contradictions between men and women (you could probably include all other non-men in this category as well) in order to destroy solidarity between two factions of the working class
+- "...the increasing organization of the female proletariate removes the last defenceless victim of capitalist exploitation"
+  - take into account the fact that women in the workforce have usually had to work for lower wages than men
+- "To grant the woman worker the same rights as the man would be to put in the hands of the working class a new and dangerous weapon, to double the active army of the militant opponent; the bourgeoisie is too intelligent to agree to such a dangerous experiment"
+  - the bourgeoisie are often more hostile to working class women and gender equality as a way of preventing the above
+- struggle for equal political rights (in the case of the struggle at the time of this writing, suffrage) is designed to meet the immediate needs of the working class feminist movement and the working class movement as a whole
+  - the failures of the labor movement to fight for women's rights hamstrings the movement (i.e. voting rights wrt the "four part election formula" advanced by the Social-Democrats)
+- failing to properly advance the rights of women as part of the overall struggle is a blatant example of opportunism
+  - "There are democratic principles which, for the sake of its own interests, the working class must not sacrifice: there are slogans which the proletariat cannot change without damaging itself, even though the change is made in order to achieve the maximum results at any given moment."
+- In demanding full political rights for women at the time, marxist feminists of the Social-Democratic Federation sought to draw a line between themselves and bourgeois feminists, of whom in the English camp had supported "*limited, qualified* electoral rights for women"
+- ...
+
 
 # Angela Davis
 ## "Women, Race, and Class" - 1981
@@ -123,3 +136,7 @@
 - the issue of sterilization abuse represents a gulf of understanding and solidarity between the "mainstream" reproductive rights movement, which often concerns itself with the interests of middle-class white women, and women of color
   - while relatively well-to-do white women have been denied their individual rights to be sterilized if they so wished, sterilization has been pushed (and many times forcibly been performed) on Black, brown, and Indigenous women in the US at every turn
 - "Yet whatever the inconveniences for white middle-class women, a fundamental reproductive right of racially oppressed and poor women is at stake."
+
+
+# Simone de Beauvoir
+## "The Second Sex"
