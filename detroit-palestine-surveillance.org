@@ -1,0 +1,149 @@
+* Detroit/Palestine Surveillance Research
+
+** Facial Recognition
+*** Detroit
+- DPD uses facial recognition created by a company called [[https://www.dataworksplus.com/index.html][Data Works Plus]]
+  - [[https://siliconangle.com/2023/08/07/detroit-police-deep-water-using-erroneous-facial-recognition-arrest-pregnant-black-woman/][Source here]]
+  - This company does not seem to have direct ties to Israel but they have worked with Integrated Biometrics on fingerprint/biometrics scanners that may be used in occupied Palestine
+    - [[https://integratedbiometrics.com/press-releases/evolution-how-dataworks-plus-and-integrated-biometrics-help-drive-law-enforcements-transition-to-mobile-identity-verification][DWP + IB Partnership Tech]]
+    - [[https://integratedbiometrics.com/press-releases/global-alliance-for-south-carolina-and-israel-innovation-authority-announce-new-s-c-israel-rd-award][Integrated Biometrics Partnership with Israel for biometrics scanners]]
+      - Need to investigate these links further
+  - [[https://detroitmi.gov/sites/detroitmi.localhost/files/2020-10/307.5%20Facial%20Recognition.pdf][DPD Policy on Facial Recognition Here]]
+    - Note: This is from 2019, though I doubt it has changed significantly
+      - [[https://detroitmi.gov/sites/detroitmi.localhost/files/2023-03/307.5%20Facial%20Recognition%20-%20%20Under%20BOPC%20Review%20March%202023_0.pdf][Here is the policy as of 2023, backdated to 08/29/2022]]
+        - seems largely unchanged from the 2019 version
+    - "Statewide Network of Agency Photos (SNAP)" app used for investigations, central repo of images from local, state, and federal agencies
+      - performs the facial recognition services
+    - (Supposed) Limits on policy are:
+      - Must be based on "reasonable suspicion"
+      - Not to be used for surveillance (vague, undefined)
+      - Cannot use on live stream or recorded videos, regardless of origin (how does this work with Green Light? Do they only use photos from those cameras or are they just full of shit?)
+      - Can't use "mobile facial recognition"
+      - Can't use for "predictive analysis"
+      - Can't be used on people based on the following:
+        - Religious, political, social views/activities
+        - Participation in a "particular noncriminal organization or lawful event"
+        - Race, ethnicity, citizenship, place of origin, age, disability, gender, sexual orientation, or other protected classification
+      - Can't use to assess immigration status
+    - Facial recognition must be submitted to the "Crime Intelligence Unit" (CIU)
+      - CIU reports weekly and annually to the Board of Police Commissioners
+    - [[https://www.aclu.org/press-releases/after-third-wrongful-arrest-aclu-slams-detroit-police-department-for-continuing-to-use-faulty-facial-recognition-technology][Detroit has falsely accused three people of crimes due to the faulty Facial Recognition Tech]]
+      - Specific people: Porcha Woodruff, Robert Williams
+        - [[https://www.aclu.org/news/privacy-technology/i-did-nothing-wrong-i-was-arrested-anyway][Robert's Story]]
+      - Six people (that we know of) falsely accused nationiwide; all six falsely accused have been black, three have been in Detroit
+    - [[https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/][Facial Recognition Technology has Significant Racial Bias]]
+      - Study carried out by the National Institute of Standards and Technology (NIST) found that FR algorithms worsen their accuracy based on age, gender, and race
+      - Asian and African American people were *100* times more likely to be misidentified than white men; Indigenous people had the highest false-positive rate of all ethnicities
+      - Highest accuracy rates are for (drumroll, please) middle-aged white men
+      - [[https://www.cbsnews.com/detroit/news/detroit-police-plan-facial-recognition-policy-changes-after-false-arrest-lawsuit/][DPD apparently changing their policy on FR after Porcha Woodruff case]]
+        - DPD will now requiring all photo lineups to include a "sequential double blind investigation" as well as a "two-part review"for arrests that used FR
+        - Interesting thing to note: the evidence came from a still frame from security camera video. This seems like a half-assed way to get around their policy of no video from before
+      - [[https://outliermedia.org/facial-recognition-detroit-police-explained/][Outlier Media Article on Facial Recognition in Detroit]]
+        - Most images fed into SNAP in 2023 have come from security cameras, Green Light cameras, or social media
+        - As of September 2023, DPD used FR to investigate 86 crimes
+      - [[https://www.wxyz.com/news/facial-recognition-technology-in-detroit-to-remain-in-use-after-commissioners-vote][Board of Police Commisioners votes 5-3 (with two abstentions) against suspending the use of FR for a year]]
+      - [[https://arstechnica.com/tech-policy/2020/06/detroit-police-chief-admits-facial-recognition-is-wrong-96-of-the-time/][In 2020, Chief James Craig admitted that FR tech used by DPD misidentifies suspects about 96% of the time]]
+**** Project Green Light
+- [[https://detroitmi.gov/departments/police-department/project-green-light-detroit][City of Detroit Page]]
+  - Initial partnership was with eight gas stations
+    - [[https://wdet.org/2022/02/03/tracked-and-traced-does-project-green-light-in-detroit-reduce-crime/][more than 700 properties take part in the program]]
+    - [[https://detroitmi.gov/webapp/project-green-light-map][Map of all Green Light "Partners", too many to easily count]]
+  - Participants install HD cameras and high-speed network connections, install Green Light signage and physical green lights
+    - cost to purchase equipment is $4-6k; leasing is $130-180 a month plus installation costs
+    - businesses do not pay the city any money to take part in the program
+  - DPD has staff committed to receive, monitor, and analyze video feeds from GL at the Real Time Crime Center
+- [[https://wdet.org/2022/02/03/tracked-and-traced-does-project-green-light-in-detroit-reduce-crime/][WDET Article: Project Greenlight does not reduce overall crime]]
+  - Types of properties covered by GL include (but are not limited to) gas stations, fast food restaurants, churches, and apartment buildings.
+  - only measurable effects seem to be an increase in crime /reporting/ and a reduction in carjackings
+  - “So, I don’t think in the police department that we look at numbers because numbers can be manipulated at times” - Rudy Harper, DPD communications officer
+    - Really the first half of that sentence says it all
+  - Green Light allows the DPD to surveil Detroit citizens in real time
+- [[https://www.metrotimes.com/news/detroits-project-green-light-failed-to-reduce-violent-crime-doj-finds-32332512][Project Green Light Failed to Reduce Violent Crime]]
+  - In spite of claims from Mayor Duggan that violent crime fell 31% at businesses that use GL, DOJ found no evidence the cameras reduced violent crime
+    - “There was no statistically significant difference in violent crime reporting for treated businesses that implemented Project Green Light, compared with matched untreated control businesses that did not implement the initiative, from the preintervention period to 1-year postimplementation,” the DOJ report states. 
+  - cameras are also at low-income housing complexes, immigration centers abortion clinics, hotels, health centers, and addiction treatment centers
+*** Dearborn
+- [[https://wdet.org/2022/01/19/tracked-and-traced-how-thousands-of-american-muslims-ended-up-on-the-terrorist-watch-list/][Article on surveillance of Arab Americans after 9/11]]
+*** Palestine
+- The IOF uses a database of photos fed into a smartphone technology called "Blue Wolf" (might be called "Red Wolf", now) to gather facial recognition data and surveil Palestinians in the West Bank
+  - [[https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html][Link to a Washington Post Article on the topic]]
+  - A possible variant (or the same thing under a new name) "Red Wolf" is used to surveil Palestinians in Hebron (H2 zone) and East Jerusalem, specifically
+    - [[https://www.amnesty.org/en/latest/news/2023/05/israel-opt-israeli-authorities-are-using-facial-recognition-technology-to-entrench-apartheid/][Link to Amnesty International Article with more details]]
+    - "Red Wolf" is connected with "Blue Wolf" and "Wolf Pack"
+    - "Wolf Pack" is a "vast database containing all available information on Palestinians from the OPT, inculding where they live, who their family members are, and whether they are wanted for questioning by Israeli authorities"
+    - "Blue Wolf" is an app which IOF soldiers can access via smartphones and tablets which can instantly pull up information stored in the Wolf Pack database
+      - The app has gamification features which ranks IOF soldiers based on number of Palestinians registered; prizes are provided based on rankings
+    - "Red Wolf" uses data from Wolf Pack to determine whether someone can pass a checkpoint and automatically scans and enrolls new faces it finds.
+    - Hebron is full of surveillance cameras
+      - For Palestinians, some areas of H2 are off limits to them, even if it is only meters away from their homes
+    - In East Jerusalem, there is a network of thousands of CCTV cameras which are being upgraded to enchance its facial recognition capabilities
+      - The system is known as Mabat 2000
+      - AI found 1-2 cameras every five meters
+      - This system is used to detain demonstrators post-protest
+    - Cameras are being manufactured by Hikvision (Chinese) and TKH Security (Dutch)
+      - TKH distributor in the area is Mal-Tech Technological Solutions
+
+** ShotSpotter
+*** General Info
+- [[https://www.shotspotter.com/system/content-uploads/SST_FAQ_January_2018.pdf][ShotSpotter FAQ]]
+  - Uses "sophisticated acoustic sensors" to point cops toward "illegal gunfire incidents"
+  - delivers location data and other info (# of rounds fired, type of gunfire, etc) to either a cellphone or laptop via a web app
+  - uses approx. 20 sensors per sq mile
+  - incidents are ran by "expertly trained acoustic analysts" for review/qualifying info
+  - the company is super defensive about claims that it doesn't work lol
+  - cost of the program is $65k-90k *per square mile* per year (as of 2018 when this FAQ was written)
+    - based off these numbers, it would cost Detroit around at least $9.3 million to run ShotSpotter (if they have the service area cover the whole city)
+      - Not sure what specific part of the city is initially supposed to be covered, will calculate an initial cost later
+*** Detroit-Specific
+- [[https://www.metrotimes.com/news/detroits-surveillance-technology-similar-to-israels-police-commissioner-says-34499628][Detroit-Palestine Connection]]
+  - Police Commissioner Willie Buron opposes uses of facial recognition and ShotSpotter
+  - City council voted 5-4 in Octover 2022 to expand ShotSpotter
+- [[https://www.bridgedetroit.com/shotspotter-says-mistakes-are-rare-but-detroiters-want-more-transparency/][Bridge Detroit Article on ShotSpotter]]
+  - Detroit currently spends $8.5 million on it
+  - People want third-party verification of accuracy
+  - Info obtained via FOIA on DPD accuracy scorecard is not proof of accuracy, according to Molly Kleinman, managing director of the Science Technology and Pulbic Policy Program at U of M
+  - Detroit contract with SoundThinking requires it to accurately identify 90% of outdoor gunfire within its coverage area
+  - ShotSpotter sensors cover 28 sq miles of Detroit
+- [[https://www.freep.com/story/news/local/michigan/detroit/2022/10/11/detroit-city-council-approves-7m-for-shotspotter/69556058007/][Detroit City Council approves $7M to expand ShotSpotter - Detroit Free Press]] 
+  - Initial contract called for funding to come from federal money, it came from Detroit's general fund instead
+  - ShotSpotter has received overwhelming backlash from the public
+  - Contract period expires on June 30th, 2026
+  - strongly supported by Mayor Duggan and Police Chief White (go figure)
+  - operates in the 8th and 9th precinct
+- [[https://www.onedetroitpbs.org/community-posts/controversy-surrounding-detroits-shotspotter-expansion-raises-transparency-concerns-among-residents/][Controversy surrounding Detroit's ShotSpotter expansion raises transparency concernts among residents - 1Detroit PBS]]
+  - ShotSpotter is auditing itself for it's accuracy rate
+    - contract says SS must meet an accuracy rate of 90%; ShotSpotter says they have a 99% accuracy rating (when they are auditing themselves)
+    - No independent, third-party body verifying the results or performing its own analysis
+*** Palestine-Specific
+- [[https://dronedj.com/2021/12/22/shotspotter-gunshot-detecting-drones/][Teaming up with Airobotics in Palestine]]
+  - ShotSpotter is teaming up with "Israeli" drone manufacturer to detect, locate, and alert the police to gunfire while providign live video from a drone
+    - haha holy shit this sounds fucking dystopian
+  - Looks like they're planning on using it in Palestine
+  - [[https://www.soundthinking.com/press-releases/airobotics-and-shotspotter-partner-to-offer-integrated-gunshot-detection-and-real-time-aerial-video-to-help-save-lives-and-deter-crime-in-israel/][Second Article]]
+  - [[https://www.inceptivemind.com/airobotics-shotspotter-partner-deploy-gunshot-detection-tech-israel/22567/][Third Article]]
+
+
+** General Surveillance
+*** Palestine
+- [[https://www.mei.edu/publications/nowhere-hide-impact-israels-digital-surveillance-regime-palestinians][Impact of "Israel's" digital surveillance on Palestinians]]
+  - Palestinains are monitored at checkpoints, protests, social gatherings
+  - people experience unnanounced raids/home searches, brutal interrogation at border crossings and checkpoints
+  - CCTV cameras are deployed in Palestinian territory, notable Hebron and East Jerusalem; this has been happening since 2000
+    - "Israel" dropped $15.26 million for even more cameras in Jerusalem in 2015
+    - Inside Jerusalem, there are ~1000 cameras with the ability to identify objects, 10% of which are connected to servers that can analyze the data they send in
+      - some of these can even capture numbers and letters on fixed and moving license plates
+    - Hebron has face-scanning cameras installed, as part of the surveillance initiative that created Blue Wolf and Red Wolf
+  - "Israel" controls information and communications tech in Palestinian territory, keeping internet technology in the West Bank and Gaza out of date and very expensive
+    - the zionists can now monitory *every* phone conversation in the West Bank
+      - [[https://www.middleeasteye.net/news/israel-can-monitor-every-telephone-call-west-bank-and-gaza-intelligence-source][More Information Here]]
+    - bugs are implanted in every mobile device imported into Gaza through the Kerem Shalon crossing
+    - surveillance spyware is used to monitor Palestinians as well
+- [[https://forward.com/opinion/478846/israel-new-surveillance-technology-occupation-palestinians/]["Israel" uses new surveillance technology to distance itself from the occupation]]
+  - Up until 2021 (though it would be foolish to take the IOF at its word), IOF soldiers would go into the homes of Palestinians /who weren't even suspected of anything/ to "map" them
+    - soldiers would raid a home in the middle of the night, take pictures of the residents, and write down their names
+      - this practice took place to "demonstrate [sic] presence", basically a way of intimidating Palestinians and making them feel like they are never safe
+ - [[https://www.aljazeera.com/news/2023/5/7/chilling-effect-israels-ongoing-surveillance-of-palestinians][Al Jazeera Article on IOF Surveillance]]
+   - Facial recognition networks are being expanded to places of strong cultural significance
+   - "Israel" is a major export of cyber and civilian monitoring techologies to other countries, including Colombia, India, and Mexico
+   - "Israeli" company, NSO Group, produces a software called Pegasus, which is used by dozens of countries to hack into smartphones
+   - 
